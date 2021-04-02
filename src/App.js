@@ -70,7 +70,7 @@ function App() {
               <Card.Body>
                 <Card.Title>Buy a BLAHAJ</Card.Title>
                 <Card.Subtitle className="mb-2">They are the best</Card.Subtitle>
-                <img src="https://blahajgang.lol/assets/just-blahaj.png" />
+                <img src="https://blahajgang.lol/assets/just-blahaj.png" alt="BLAHAJ"/>
                 <Card.Text>
                   Ryan sWift is a huge fan of BLAHAJ and he really wants you to buy one. If you don't, he'll be sad. Also 45k Checkins pls.
                 </Card.Text>
